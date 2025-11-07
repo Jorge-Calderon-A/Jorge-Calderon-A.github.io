@@ -3,7 +3,7 @@ Hola, bienvenido a mi portafolio profesional. Soy Jorge Calderón, ingeniero en 
 Aqui encontraras mis proyectos, simulaciones y estudios de toda indole, entre ellos profesionales, universitarios, investigaciones y personales.
 ---
 # 🎯 Enfoques actuales
-Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléctrica en entornos indutriales y ferroviarios.
+Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléctrica en entornos industriales y ferroviarios.
 ---
 # 🧠 Áreas de interés
  - Ciencias de la ingenieria.
