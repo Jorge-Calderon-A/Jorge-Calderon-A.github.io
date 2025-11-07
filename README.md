@@ -1,4 +1,4 @@
-# Jorge Calderón  Portafolio de ingenieria
+# 👋 Jorge Calderón - Portafolio de ingenieria
 Bienvenido a mi portafolio profesional. Aqui encontraras mis proyectos, simulaciones y estudios de toda indole, entre ellos profesionales, universitarios, investigaciones y personales.
 ---
 # Jorge Calderón - Ingeniero en electricidad - Ingenieria Civil Industrial
