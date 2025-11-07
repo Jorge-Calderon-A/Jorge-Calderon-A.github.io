@@ -20,6 +20,10 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 - [Correo de contacto](mailto:jorgecalderonc22@gmail.com)
   
 ---
+
+> "La ingenieria no es solo resolver problemas, sino aprender a hacer preguntas mas inteligentes."
+> Toda la información presentada en este portafolio es de caracter personal, es decir, no hay plagio de ningun medio en todas las menciones del presente documento, en caso de haber textos citados, se mencionara el libro, web o documento con la información correspondiente.
+---
 # 🧩 Proyectos de ingenieria en electricidad (personales)
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
 
