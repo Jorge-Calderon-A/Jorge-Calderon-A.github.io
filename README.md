@@ -13,6 +13,7 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
  - Optimización e investigación de operaciones.
  - Gestión de proyectos.
  - Aplicaciones de energia eléctrica (Electronica, electricidad, automatización, control e instrumentación).
+   
 ---
 # 🧩 Proyectos de ingenieria en electricidad (personales)
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
