@@ -28,6 +28,13 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 
 -------
 ## 🧮 Fundamentos de matematicas
+- [Limites](/fundamentos_matematicas/Limites/README.md)
+- [Derivadas](/fundamentos_matematicas/Derivadas/README.md)
+- [Integrales](/fundamentos_matematicas/Integrales/README.md)
+- [Espacios y subespacios vectoriales](/fundamentos_matematicas/Espacios%20y%20subespacios%20vectoriales/README.md)
+- [Combinación lineal, sistema generador y dependencia lineal](/fundamentos_matematicas/Combinación%20lineal/README.md)
+- [Base y dimensión, tecnica de exclusión y teorema de la diemnsión](/fundamentos_matematicas/Base%20y%20dimension/README.md)
+
 
 -------
 ## 📊 Matematicas avanzadas para ingenieria
