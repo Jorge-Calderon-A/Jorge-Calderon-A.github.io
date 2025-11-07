@@ -52,6 +52,12 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 -------
 ## 🧩 Proyectos de ingenieria en electricidad (personales)
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
+- [Circuito paralelo](/proyecto/Circuito_paralelo/README.md)
+- [Circuito mixto](/proyecto/Circuito_mixto/README.md)
+- [Ley de Kirchhoff](/proyecto/Ley_de_Kirchhoff/README.md)
+- [Divisor de tensión y corriente](/proyecto/Divisor_de_tensión_y_corriente/README.md)
+- [Teorema de Thevenin y Norton](/proyecto/Teorema_de_Thevenin%20_y_Norton/README.md)
+- [Circuitos RL, RC y RLC](/proyecto/Circuito_RL_RC_y_RLC/README.md)
   
 -------
 ## 🤖 Proyectos de ingenieria en automatización y control
