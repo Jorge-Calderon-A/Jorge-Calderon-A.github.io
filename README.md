@@ -23,8 +23,6 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 
 > "La ingenieria no es solo resolver problemas, sino aprender a hacer preguntas mas inteligentes."
 
-> "Toda la información presentada en este portafolio es de caracter personal, es decir, no hay plagio de ningun medio en todas las menciones del presente documento, en caso de haber textos citados, se mencionara el libro, web o documento con la información correspondiente."
-
 -------
 ## Fundamentos de matematicas
 
