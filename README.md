@@ -32,6 +32,9 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 -------
 ## 📊 Matematicas avanzadas para ingenieria
 - [Limites de varias variables](matematicas_avanzadas/limites/README.md)
+
+-------
+## ⚛️ Complementos de fisica
   
 -------
 ## 🧩 Proyectos de ingenieria en electricidad (personales)
