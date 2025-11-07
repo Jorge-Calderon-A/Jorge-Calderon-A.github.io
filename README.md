@@ -2,6 +2,6 @@
 Enfoque area energia eléctrica, tracción de trenes, sistemas ferroviarios, analisis de sistema energetico en sistemas ferroviarios.
 ---
 # Intereses
-Ciencias de la ingenieria, modelamiento matematico, analisis de metodos numericos y aplicaciones energeticas.
+Ciencias de la ingenieria, modelamiento matematico, analisis de metodos numericos, administración, optimización, gestión de proyectos y aplicaciones energeticas.
 ---
 
