@@ -28,7 +28,7 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 ## Fundamentos de matematicas
 ---
 ## Matematicas avanzadas para ingenieria
-- [Limites de varias variables](
+- [Limites de varias variables](matematicas_avanzadas/limites_de_varias_variable)
 ---
 ## 🧩 Proyectos de ingenieria en electricidad (personales)
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
