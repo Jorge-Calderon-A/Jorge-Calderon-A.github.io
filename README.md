@@ -33,7 +33,7 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 - [Integrales](/fundamentos_matematicas/Integrales/README.md)
 - [Espacios y subespacios vectoriales](/fundamentos_matematicas/Espacios%20y%20subespacios%20vectoriales/README.md)
 - [Combinación lineal, sistema generador y dependencia lineal](/fundamentos_matematicas/Combinación%20lineal/README.md)
-- [Base y dimensión, tecnica de exclusión y teorema de la diemnsión](/fundamentos_matematicas/Base%20y%20dimension/README.md)
+- [Base y dimensión, tecnica de exclusión y teorema de la dimensión](/fundamentos_matematicas/Base%20y%20dimension/README.md)
 
 
 -------
