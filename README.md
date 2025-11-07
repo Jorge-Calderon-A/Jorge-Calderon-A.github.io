@@ -1,5 +1,5 @@
 # 👋 Jorge Calderón - Portafolio de ingenieria
-Hola, bienvenido a mi portafolio profesional. Soy Jorge Calderón, ingeniero en electricidad y estudiante de ingenieria civil industrial, apasionado por las ciencias y la energia eléctrica, me gusta entender el fundamentos de las cosas, desde la manera mas trivial hasta la mas compleja.
+Hola, bienvenido a mi portafolio profesional. Soy Jorge Calderón, ingeniero en electricidad y estudiante de ingenieria civil industrial, apasionado por las ciencias y la energia eléctrica, me gusta entender los fundamentos de las cosas, desde la forma mas trivial hasta la mas compleja.
 Aqui encontraras mis proyectos, simulaciones y estudios de toda indole, entre ellos profesionales, universitarios, investigaciones y personales.
 ------
 ## 🎯 Enfoques actuales
