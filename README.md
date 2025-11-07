@@ -15,10 +15,10 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
  - Aplicaciones de energia eléctrica (Electronica, electricidad, automatización, control e instrumentación).
    
 ---
-## 🌐 Encuentrame tambien en:
+# 🌐 Encuentrame tambien en:
 - [LinkedIn](https://www.linkedin.com/in/jorge-calderona/)
-- [Correo de contacto](mailto:jorgecalderona22@gmai.com)
-
+- [Correo de contacto](mailto:jorgecalderonc22@gmail.com)
+  
 ---
 # 🧩 Proyectos de ingenieria en electricidad (personales)
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
