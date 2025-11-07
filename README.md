@@ -5,7 +5,7 @@ Aqui encontraras mis proyectos, simulaciones y estudios de toda indole, entre el
 # 🎯 Enfoques actuales
 Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléctrica en entornos indutriales y ferroviarios.
 ---
-# 🧠 Areas de intereses
+# 🧠 Áreas de interés
  - Ciencias de la ingenieria.
  - Modelamiento matematico.
  - Analisis de metodos numericos.
