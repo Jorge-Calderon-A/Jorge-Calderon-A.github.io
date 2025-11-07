@@ -27,10 +27,10 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 
 
 -------
-## Fundamentos de matematicas
+## 🧮 Fundamentos de matematicas
 
 -------
-## Matematicas avanzadas para ingenieria
+## 📊 Matematicas avanzadas para ingenieria
 - [Limites de varias variables](matematicas_avanzadas/limites/README.md)
   
 -------
@@ -38,11 +38,11 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
   
 -------
-## Proyectos de ingenieria en automatización y control
+## 🤖 Proyectos de ingenieria en automatización y control
 
 --------
-## Investigación de instrumentación industrial
+## ⚙️ Investigación de instrumentación industrial
 
 --------
-## Aplicaciones practicas de circuitos eléctricos
+## ⚡ Aplicaciones practicas de circuitos eléctricos
 
