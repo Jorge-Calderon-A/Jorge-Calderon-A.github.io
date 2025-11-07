@@ -8,5 +8,5 @@ Enfoque area energia eléctrica, tracción de trenes, sistemas ferroviarios, ana
 Ciencias de la ingenieria, modelamiento matematico, analisis de metodos numericos, administración, optimización, gestión de proyectos y aplicaciones energeticas.
 ---
 # Proyectos técnicos de ingenieria (personales)
-- [Circuito en serie] (./proyectos/circuito_serie)
+- [Circuito en serie] (./proyecto/circuito_serie)
 
