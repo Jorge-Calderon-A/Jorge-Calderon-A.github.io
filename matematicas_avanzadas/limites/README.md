@@ -1,7 +1,7 @@
 # Limites de varias variables
 ## Descripción de limites
 
-En el ambito de la ingenieria y su aplicación, existen numerosos tipos de metodos matematicos que se producen para determinar ciertos acontecimientos, pero no solamente enfocados a la ingenieria, tambien el la vida cotidiana, desde una variable fisica a una matematica, se pueden aplicar y existen lo que se conoce como "limites", en este caso, son los limites de varias variables los que se estudiaran.
+En el ambito de la ingenieria y su aplicación, existen numerosos tipos de metodos matematicos que se producen para determinar ciertos acontecimientos, pero no solamente enfocados a la ingenieria, tambien en la vida cotidiana, desde una variable fisica a una matematica, se pueden aplicar y existen lo que se conoce como "limites", en este caso, son los limites de varias variables los que se estudiaran.
 
 Los limites son definidos en "Calculo I" o "Precalculo", se nos enseña que los limites lim(x→0) juegan un papel fundamental en las funciones lineales o no lineales, quiere decir la cantidad maxima a la cual me puedo acercar al valor de una función desde un extremo de la misma o por el extremo contrario, para que el limite se cumpla y exista, la función debe ser continua al menos en el lugar donde se analiza el limite, en caso de que la función no sea continua, el limite no existira.
 
