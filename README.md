@@ -32,6 +32,8 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 -------
 ## 📊 Matematicas avanzadas para ingenieria
 - [Limites de varias variables](matematicas_avanzadas/limites/README.md)
+- [Derivadas parciales](matematicas_avanzadas/derivadas_parciales/README.md)
+- [Recta normal y plano tangente](matematicas_avanzadas/Recta_normal_y_plano_tangente/README.md)
 
 -------
 ## ⚛️ Complementos de fisica
