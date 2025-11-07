@@ -42,7 +42,7 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 - [Metodo de bisección](/matematicas_avanzadas/Metodo_de_bisección/README.md)
 - [Metodo de Newton-Raphson](/matematicas_avanzadas/Metodo_de_Newton_Raphson/README.md)
 - [Metodo iterativo de punto fijo](/matematicas_avanzadas/Metodo_iterativo_de_punto_fijo/README.md)
-- [Metodo de Newton-Raphson genralizado](/matematicas_avanzadas/Metodo_de_Newton_Raphson_generalizado/README.md)
+- [Metodo de Newton-Raphson generalizado](/matematicas_avanzadas/Metodo_de_Newton_Raphson_generalizado/README.md)
 
 
 -------
