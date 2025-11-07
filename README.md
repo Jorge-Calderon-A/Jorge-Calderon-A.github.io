@@ -25,16 +25,16 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 
 > "Toda la información presentada en este portafolio es de caracter personal, es decir, no hay plagio de ningun medio en todas las menciones del presente documento, en caso de haber textos citados, se mencionara el libro, web o documento con la información correspondiente."
 ---
-# Fundamentos de matematicas
+## Fundamentos de matematicas
 ---
-# Matematicas avanzadas para ingenieria
+## Matematicas avanzadas para ingenieria
 ---
-# 🧩 Proyectos de ingenieria en electricidad (personales)
+## 🧩 Proyectos de ingenieria en electricidad (personales)
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
 --- 
-# Proyectos de ingenieria en automatización y control
+## Proyectos de ingenieria en automatización y control
 ---
-# Investigación de instrumentación industrial
+## Investigación de instrumentación industrial
 ---
-# Aplicaciones practicas de circuitos eléctricos
+## Aplicaciones practicas de circuitos eléctricos
 
