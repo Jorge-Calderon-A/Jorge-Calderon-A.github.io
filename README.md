@@ -78,5 +78,5 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 
 --------
 
-###### El portafolio se encuentra en su fase de creación
+###### El portafolio se encuentra en su fase de creación, partes de los conceptos no pueden estar terminados, definidos o escritos. El portafolio es de caracter profesional, enfocado en investigaciones de diversas indoles para el desarrollo de nuevas soluciones para la industria.
 
