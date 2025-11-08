@@ -1,5 +1,5 @@
 # 👋 Portafolio de ingenieria
-Hola, bienvenido a mi portafolio profesional. Soy Jorge Calderón, ingeniero en electricidad y estudiante de ingenieria civil industrial, apasionado por las ciencias y la energia eléctrica, me gusta entender los fundamentos de las cosas, desde la forma mas trivial hasta la mas compleja.
+Hola, bienvenido a mi portafolio profesional. Soy Jorge Calderón, ingeniero en electricidad y estudiante de ingenieria civil industrial, apasionado por las ciencias y la energia eléctrica, me apasiona comprender los fundamentos de las cosas, desde la manera mas trivial hasta la mas compleja.
 Aqui encontraras mis proyectos, simulaciones y estudios de toda indole, entre ellos profesionales, universitarios, investigaciones y personales.
 ------
 ## 🎯 Enfoques actuales
@@ -57,7 +57,7 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 ## ⚛️ Complementos de fisica
   
 -------
-## 🧩 Proyectos de ingenieria
+## 🧩 Proyectos de ingenieria en electricidad (personales)
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
 - [Circuito paralelo](/proyecto/Circuito_paralelo/README.md)
 - [Circuito mixto](/proyecto/Circuito_mixto/README.md)
@@ -68,9 +68,6 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
   
 -------
 ## 🤖 Proyectos de ingenieria en automatización y control
-- [Fundamentos de automatización](/Automatización%20y%20control/Fundamentos%20de%20automatización/README.md)
-- [Programación en PLC](/Automatización%20y%20control/Programación%20PLC/README.md0)
-
 
 --------
 ## ⚙️ Investigación de instrumentación industrial
