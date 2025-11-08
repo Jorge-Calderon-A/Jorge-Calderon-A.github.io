@@ -5,7 +5,7 @@ En esta investigación, se investiga bajo la herramienta de Software Proteus, pa
 
 Para el presente analisis, se define una resistencia para proyectar en el circuito en serie (corriente continua).
 
-<P alin="center">
+<p alin="center">
 <img src="../../Imagenes/Resistencia.png"
 alt="Resistencia" width="20%"/>
-
+</p>
