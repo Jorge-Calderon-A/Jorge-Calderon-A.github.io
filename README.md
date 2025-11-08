@@ -59,6 +59,7 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 -------
 ## 🧩 Proyectos de ingenieria en electricidad (personales)
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
+> Investigación de circuito mediante Proteus y problemas analizados.
 - [Circuito paralelo](/proyecto/Circuito_paralelo/README.md)
 - [Circuito mixto](/proyecto/Circuito_mixto/README.md)
 - [Ley de Kirchhoff](/proyecto/Ley_de_Kirchhoff/README.md)
