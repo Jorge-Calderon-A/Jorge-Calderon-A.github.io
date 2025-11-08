@@ -14,5 +14,3 @@ Con los limites de varias variables, podemos comprender la temperatura en un mom
 Entender los limites de varias variables es fundamental para comprender derivadas en varias variables (derivadas parciales), de esta manera, tendremos un conocimiento mas maduro para desarrollar demostraciones y desarollos de problemas mas coplejos mediante una idea de como funciona un limite, saber que es lo que se esta desarrollando es fundamental para conocer el area mas hermosa de la ingenieria y las matematicas.
 
 Antes de ir a los ejemplos, debemos tener un conocimiento de simbolos matematicos, esto se exige en los cursos avanzados de matematicas, sin embargo, es muy simple de aprender si se estudia con cautela cada simbolo.
-
-El simbolo de limite es /(lim)/
