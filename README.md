@@ -57,7 +57,7 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 ## ⚛️ Complementos de fisica
   
 -------
-## 🧩 Proyectos de ingenieria en electricidad (personales)
+## 🧩 Proyectos de ingenieria
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
 - [Circuito paralelo](/proyecto/Circuito_paralelo/README.md)
 - [Circuito mixto](/proyecto/Circuito_mixto/README.md)
@@ -68,6 +68,9 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
   
 -------
 ## 🤖 Proyectos de ingenieria en automatización y control
+- [Fundamentos de automatización](/Automatización%20y%20control/Fundamentos%20de%20automatización/README.md)
+- [Programación en PLC](/Automatización%20y%20control/Programación%20PLC/README.md0)
+
 
 --------
 ## ⚙️ Investigación de instrumentación industrial
