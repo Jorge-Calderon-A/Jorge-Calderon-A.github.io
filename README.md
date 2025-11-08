@@ -76,3 +76,7 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 --------
 ## ⚡ Aplicaciones practicas de circuitos eléctricos
 
+--------
+
+###### El portafolio se encuentra en su fase de creación
+
