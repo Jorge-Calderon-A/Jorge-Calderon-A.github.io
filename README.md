@@ -12,7 +12,7 @@ En mi trabajo actual se realiza supervisión de sistemas de energia eléctrica e
 ## 🧠 Enfoque de investigación
 Actualmente me encuentro realizando investigaciones en el area de la teoria de sistemas eléctricos y en ciencias de la ingenieria, paralelamente al trabajo, mi objetivo principal es inducir nuevas areas de investigación para la busqueda de soluciones en el area, siendo capaz de optimizar procesos y gestionar profesionalmente las operaciones en el rubro energetico.
 
-La idea principal es mezclar la Ingenieria Civil Industrial con la Ingenieria en Electricidad, buscar soluciones optimas, capaces de demostrar mediante la ciencia que se pueden implementar conocimientos de modelamiento de sistemas complejos en ambas areas.
+La idea principal es implementar conocimeintos de la Ingenieria Civil Industrial con la Ingenieria en Electricidad, buscar soluciones optimas, capaces de demostrar mediante la ciencia que se pueden implementar conocimientos de modelamiento de sistemas complejos en ambas areas.
 
 -------
 ## 🧠 Áreas de interés
