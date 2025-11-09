@@ -54,7 +54,7 @@ La idea principal es implementar conocimeintos de la Ingenieria Civil Industrial
 
 -------
 ## 📊 Matematicas avanzadas para ingenieria
-*El enfoque de esta area es el conocimiento avanzado de ingenieria, la matematicas se aplica teoricamente y practicamente al area de la ingenieria, estos conceptos ayudan a abordar los conocimientos para que la ingenieria y sus problemas, puedan ser resueltos mediante aplicaciones reales y simulaciones de la vida cotidiana.*
+*El enfoque de esta area es el conocimiento avanzado de ingenieria, la matematicas se aplican teoricamente y practicamente al area de la ingenieria, estos conceptos ayudan a abordar los conocimientos para que la ingenieria y sus problemas, puedan ser resueltos mediante aplicaciones reales y simulaciones de la vida cotidiana.*
 
 - [Limites de varias variables](matematicas_avanzadas/limites/README.md)
 - [Derivadas parciales](matematicas_avanzadas/derivadas_parciales/README.md)
