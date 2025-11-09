@@ -39,6 +39,7 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 - [Valores y vectores propios junto a diagonalización](/fundamentos_matematicas/Valores%20y%20vectores%20propios/README.md)
 - [Condiciones, norma, distancia y desigualdad de Cauchy-Schawrz](/fundamentos_matematicas/Condiciones%20norma/README.md)
 - [Angulo entre vectores, teorema de pitagoras y procedimiento de ortogonalización de Gram-Schmidt](/fundamentos_matematicas/Producto%20punto/README.md)
+
 -------
 ## 📊 Matematicas avanzadas para ingenieria
 - [Limites de varias variables](matematicas_avanzadas/limites/README.md)
