@@ -38,6 +38,7 @@ La idea principal es implementar conocimeintos de la Ingenieria Civil Industrial
 
 -------
 ## 🧮 Fundamentos de matematicas
+La idea de fundamentos de matematicas es escencial para modelar sistemas, es la base principal de la ingenieria. Sin los fundamentos de matematicas, la ingenieria no se podria aplicar. Este es un analisis a las ciencias basicas de la ingenieria.
 - [Limites](/fundamentos_matematicas/Limites/README.md)
 - [Derivadas](/fundamentos_matematicas/Derivadas/README.md)
 - [Integrales](/fundamentos_matematicas/Integrales/README.md)
