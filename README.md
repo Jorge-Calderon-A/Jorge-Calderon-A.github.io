@@ -14,9 +14,6 @@ Actualmente me encuentro realizando investigaciones en el area de la teoria de s
 
 La idea principal es mezclar la Ingenieria Civil Industrial con la Ingenieria en Electricidad, buscar soluciones optimas, capaces de demostrar mediante la ciencia que se pueden implementar conocimientos de modelamiento de sistemas complejos en ambas areas.
 
-------
-## 🎯 Enfoques actuales
-Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléctrica en entornos industriales.
 -------
 ## 🧠 Áreas de interés
  - Ciencias de la ingenieria.
