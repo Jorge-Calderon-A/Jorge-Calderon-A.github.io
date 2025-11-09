@@ -5,7 +5,7 @@ Aqui encontraras mis proyectos, simulaciones y estudios de toda indole, entre el
 ## 💼 Experiencia profesional
 Mantenimiento en sistemas eléctricos, automatización, control e instrumentación en importante planta de producción en el pais, donde se aplicaron conocimientos avanzados de instrumentación industrial y control.
 
-Mantenimiento electromecanico de sistemas ferroviarios para importante empresa de transporte, concimientos de mecanica y electricidad. Impelemente conocimientos en area de energia eléctrica aplicada a sistemas de trenes.
+Mantenimiento electromecanico de sistemas ferroviarios para importante empresa de transporte, concimientos de mecanica y electricidad. Implemente conocimientos en area de energia eléctrica y mecanica aplicada a sistemas de trenes.
 
 Supervisión de sistemas de energia eléctrica en Metro de Santiago, incluye analisis de sistemas eléctricos, gestiones de uso de SAP, conocimientos avanzados de energia eléctrica y supervisión de tecnicos.
 
