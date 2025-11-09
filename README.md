@@ -2,14 +2,14 @@
 Hola, bienvenido a mi portafolio profesional. Soy Jorge Calderón, ingeniero en electricidad y estudiante de ingenieria civil industrial, apasionado por las ciencias y la energia eléctrica, me apasiona comprender los fundamentos de las cosas, desde la manera mas trivial hasta la mas compleja.
 Aqui encontraras mis proyectos, simulaciones y estudios de toda indole, entre ellos profesionales, universitarios, investigaciones y personales.
 
-# 💼 Experiencia profesional
+## 💼 Experiencia profesional
 Mantenimiento en sistemas eléctricos, automatización, control e instrumentación en importante planta de producción en el pais, donde se aplica conocimiento avanzado de instrumentación industrial y control.
 
 Mantenimiento electromecanico de sistemas ferroviarios para importante empresa de transporte, concimientos de mecanica y electricidad. Impelemente conocimientos en area de energia eléctrica aplicada a sistemas de trenes.
 
 Supervisión de sistemas de energia eléctrica en Metro de Santiago, incluye analisis de sistemas eléctricos, gestiones de uso de SAP, conocimientos avanzados de energia eléctrica y supervisión de tecnicos.
 
-# 🧠 Enfoque de investigación
+## 🧠 Enfoque de investigación
 Actualmente me encuentro realizando investigaciones en el area de la teoria de sistemas eléctricos y en ciencias de la ingenieria, paralelamente al trabajo, mi objetivo principal es inducir nuevas areas de investigación para la busqueda de soluciones en el area, siendo capaz de optimizar procesos y gestionar profesionalmente las operaciones en el rubro energetico.
 
 La idea principal es mezclar la Ingenieria Civil Industrial con la Ingenieria en Electricidad, buscar soluciones optimas, capaces de demostrar mediante la ciencia que se pueden implementar conocimientos de modelamiento de sistemas complejos en ambas areas.
