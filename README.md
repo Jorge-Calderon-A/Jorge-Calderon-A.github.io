@@ -61,7 +61,7 @@ Energia eléctrica, sistemas ferroviarios, analisis de sistemas de energia eléc
 ## ⚛️ Complementos de fisica
   
 -------
-## 🧩 Proyectos de ingenieria en electricidad (personales)
+## 🧩 Proyectos de ingenieria en electricidad
 - [Circuito en serie](./proyecto/circuito_serie/README.md)
 > Investigación de circuito mediante Proteus y problemas analizados.
 - [Circuito paralelo](/proyecto/Circuito_paralelo/README.md)
