@@ -7,7 +7,7 @@ Mantenimiento en sistemas eléctricos, automatización, control e instrumentaci�
 
 Mantenimiento electromecanico de sistemas ferroviarios para importante empresa de transporte, concimientos de mecanica y electricidad. Implemente conocimientos en area de energia eléctrica y mecanica aplicada a sistemas de trenes.
 
-Supervisión de sistemas de energia eléctrica en Metro de Santiago, incluye analisis de sistemas eléctricos, gestiones de uso de SAP, conocimientos avanzados de energia eléctrica y supervisión de tecnicos.
+En mi trabajo actual se realiza supervisión de sistemas de energia eléctrica en Metro de Santiago, incluye analisis de sistemas eléctricos, gestiones de uso de SAP, conocimientos avanzados de energia eléctrica y supervisión de tecnicos. 
 
 ## 🧠 Enfoque de investigación
 Actualmente me encuentro realizando investigaciones en el area de la teoria de sistemas eléctricos y en ciencias de la ingenieria, paralelamente al trabajo, mi objetivo principal es inducir nuevas areas de investigación para la busqueda de soluciones en el area, siendo capaz de optimizar procesos y gestionar profesionalmente las operaciones en el rubro energetico.
