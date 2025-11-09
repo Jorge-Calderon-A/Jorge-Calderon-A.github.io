@@ -7,5 +7,5 @@ Para el presente analisis, se define una resistencia para proyectar en el circui
 
 <p alin="center">
 <img src="../../Imagenes/Resistencia.png"
-alt="Resistencia" width="40%"/>
+alt="Resistencia" width="25%"/>
 </p>
