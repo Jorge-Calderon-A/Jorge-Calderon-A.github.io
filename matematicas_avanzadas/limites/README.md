@@ -18,4 +18,6 @@ Antes de ir a los ejemplos, debemos tener un conocimiento de simbolos matematico
 Aca se investigan funciones ligadas al area de ingenieria:
 
 *Se tiene el limite de caracteristica de una variables, definir si el limite tiene solución en el area definida:*
-$$ \lim_{x \to 0} f(x)=\frac{2-x}{2-x} $$
+$$
+\lim_{x \to 0} f(x)=\frac{2-x}{2-x}
+$$
