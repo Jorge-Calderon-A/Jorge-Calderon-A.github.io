@@ -1,5 +1,5 @@
 # 👋 Portafolio de ingenieria
-Hola, bienvenido a mi portafolio profesional. Soy Jorge Calderón, Ingeniero en Electricidad y estudiante de Ingenieria Civil Industrial en la USACH, apasionado por las ciencias y la energia eléctrica, me apasiona comprender los fundamentos de las cosas, desde la manera mas trivial hasta la mas compleja.
+<p style = "text-align:justify;">Hola, bienvenido a mi portafolio profesional. Soy Jorge Calderón, Ingeniero en Electricidad y estudiante de Ingenieria Civil Industrial en la USACH, apasionado por las ciencias y la energia eléctrica, me apasiona comprender los fundamentos de las cosas, desde la manera mas trivial hasta la mas compleja.
 Aqui encontraras mis proyectos, simulaciones y estudios de toda indole, entre ellos profesionales, universitarios, investigaciones y personales.
 
 ## 💼 Experiencia profesional
