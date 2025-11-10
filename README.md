@@ -102,6 +102,7 @@ La idea principal es implementar conocimeintos de la Ingenieria Civil Industrial
 
 ###### El portafolio se encuentra en su fase de creación, partes de los conceptos no pueden estar terminados, definidos o escritos. El portafolio es de caracter profesional, enfocado en investigaciones de diversas indoles para el desarrollo de nuevas soluciones para la industria.
 
-###### © 2025 Jorge Calderón | Ingeniero en Electricidad – USACH  Portafolio académico y profesional – Actualizado en noviembre 2025
+###### © 2025 Jorge Calderón | Ingeniero en Electricidad – USACH <br> Portafolio académico y profesional – Actualizado en noviembre 2025
+
 
 
