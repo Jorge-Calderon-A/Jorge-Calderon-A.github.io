@@ -73,6 +73,13 @@ La idea principal es implementar conocimeintos de la Ingenieria Civil Industrial
 
 -------
 ## ⚛️ Complementos de fisica
+- [Unidades de medida](/Fisica/Fisica/Unidades%20de%20medidas/README.md)
+- [Ondas](/Fisica/Fisica/Ondas/README.md)
+- [Optica](/Fisica/Fisica/Optica/README.md)
+- [Fisica moderna](/Fisica/Fisica/Fisica%20moderna/README.md)
+- [Ley cero de la termodinámica](/Fisica/Fisica/Ley%20zero%20de%20la%20termodinamica/README.md)
+- [Primera ley de la termodinámica](/Fisica/Fisica/Primera%20ley%20de%20la%20termodinamica/README.md)
+- [Segunda ley de la termodinámica](/Fisica/Fisica/Segunda%20ley%20de%20la%20termodinamica/README.md)
   
 -------
 ## 🧩 Proyectos de ingenieria en electricidad
