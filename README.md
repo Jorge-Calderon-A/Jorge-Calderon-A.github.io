@@ -58,7 +58,7 @@ La idea principal es implementar conocimeintos de la Ingenieria Civil Industrial
 
 - [Limites de varias variables](matematicas_avanzadas/limites/README.md)
 - [Derivadas parciales](matematicas_avanzadas/derivadas_parciales/README.md)
-- [Recta normal y plano tangente](matematicas_avanzadas/Recta_normal_y_plano_tangente/README.md)
+- [Gradiente, recta normal y plano tangente](matematicas_avanzadas/Recta_normal_y_plano_tangente/README.md)
 - [Maximos y minimos](matematicas_avanzadas/Maximos_y_minimos/README.md)
 - [Multiplicadores de Lagrange](matematicas_avanzadas/Multiplicadores_de_Lagrange/README.md)
 - [Integrales iteradas](/matematicas_avanzadas/Integrales_iteradas/README.md)
