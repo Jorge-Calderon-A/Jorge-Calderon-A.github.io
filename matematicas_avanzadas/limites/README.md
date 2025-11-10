@@ -14,3 +14,8 @@ Con los limites de varias variables, podemos comprender la temperatura en un mom
 Entender los limites de varias variables es fundamental para comprender derivadas en varias variables (derivadas parciales), de esta manera, tendremos un conocimiento mas maduro para desarrollar demostraciones y desarollos de problemas mas coplejos mediante una idea de como funciona un limite, saber que es lo que se esta desarrollando es fundamental para conocer el area mas hermosa de la ingenieria y las matematicas.
 
 Antes de ir a los ejemplos, debemos tener un conocimiento de simbolos matematicos, esto se exige en los cursos avanzados de matematicas, sin embargo, es muy simple de aprender si se estudia con cautela cada simbolo.
+
+Aca se investigan funciones ligadas al area de ingenieria:
+
+*Se tiene el limite de caracteristica de una variables, definir si el limite tiene solución en el area definida:*
+$$ \lim_{x \to 0} f(x)=\frac{2-x}{2-x} $$
