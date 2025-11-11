@@ -51,11 +51,29 @@ window.MathJax = {
 
 $$\lim_{(x,y)\to (a,b)} f(x,y)=L$$  <!--Limite de varias variables y su descripción como función-->
 
-<p style="text-align: justify;">Si para todo número $\epsilon>0$ hay un correspondiente número $\delta>0$ tal que si $(x,y)\in D$ y $0<\sqrt[]{(x-a)^{2} +(y-b)^{2}}<\delta$ entonces $\left| f(x,y)-L \right|<\epsilon$</p>
-<p style="text-align: justify;">Ejemplo: Demuestre que $\displaystyle\lim_{(x,y) \to (0,0)}=\frac{x^{2}-y^{2}}{x^{2}-y^{2}}$ no existe.</p>
+<p style="text-align: justify;"><p style="margin-bottom: 40px;">Si para todo número $\epsilon>0$ hay un correspondiente número $\delta>0$ tal que si $(x,y)\in D$ y $0<\sqrt[]{(x-a)^{2} +(y-b)^{2}}<\delta$ entonces $\left| f(x,y)-L \right|<\epsilon$</p>
+<p style="text-align: justify;"><p style="margin-bottom: 40px;">1. <b>Ejemplo</b>: Demuestre que $\displaystyle\lim_{(x,y) \to (0,0)}=\frac{x^{2}-y^{2}}{x^{2}-y^{2}}$ no existe.</p> <!--Alejado de parrafo-->
 
-<b>Desarrollo</b>:
-      </div>
+<b>Desarrollo</b>: Sea $f(x,y)=\frac{(x^{2}-y^{2})}{(x^{2}+y^{2})}$. Primero nos aproximamos a (0,0) por el eje $x$. Entonces $y=0$ da $f(x,0)= \frac{x^{2}}{x^{2}}=1$ para toda $x\neq 0$, de modo que
+<br></br>
+<p style="text-align: center">$f(x,y)\longrightarrow 1$ cuando $(x,y)\longrightarrow (0,0)$ por el eje $x$</p>  <!--Centralizado-->
+<p>Ahora nos aproximamos por el eje $y$ haciendo $x=0$. Entonces $f(0,y)=\frac{-y^{2}}{y^{2}}=-1$ para toda $y\neq 0$, de modo que</p>
+      <p style="text-align: center">$f(x,y)\longrightarrow -1$  cuando  $(x,y)\longrightarrow (0,0)$ por el eje $y$</p>
+<p style="margin-bottom: 20px;">Puesto que $f$ tiene dos límites diferentes a lo largo de dosrectas distintas, el límite dado no existe. [Esto confirma la conjetura hecha con base en evidencia numérica al principio de esta sección].</p>
+
+<p><h6>2. <b>Ejercicio aplicado a energia eléctrica: Campo eléctrico en el plano</b></h6></p>
+<p>El <b>campo eléctrico</b> creado por una carga puntual situada en el origen puede expresarse en el plano como una función:</p>
+<p style="text-align: center">$E(x,y)=\frac{kxy}{x^{2}+y}$</p>
+<p>donde:</p>
+<ul>      <!--Numeración-->
+<li><p>$k$ es una constante positiva</p></li>
+<li><p style="margin-bottom: 0.1%;">$x$ e $y$ representan las coordenadas en el plano</li></p>
+</ul>
+
+<p>Se necesita analizar el <b>comportamiento del campo</b> cerca del origen</p>
+
+
+</div>
     
     
     
