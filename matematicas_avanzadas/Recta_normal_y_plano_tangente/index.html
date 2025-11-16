@@ -35,7 +35,7 @@ window.MathJax = {
     
       <div class="crossnote markdown-preview  ">
 <h1 id= "Gradiente, recta normal y plano tangente"> Gradiente, recta normal y plano tangente</h1>
-<h2 id= "descripción de derivada direccional">Descripción de gradiente</h2>
+<h2 id= "descripción de derivada direccional">Derivada direccional</h2>
 <p style="text-align: justify;">El vector gradiente esta determinado por ciertos teoremas que estan definidos en las derivadas parciales, tenemos el siguiente ejemplo de derivada direccional:</p>
 
 <p>Si $f$ es una función derivable de $x$ y de $y$, entonces $f$ tiene una derivada direccional en la dirección de cualquier vector unitario $\textbf{u}=\left\langle a,b\right\rangle$ y:</p>
@@ -51,9 +51,16 @@ $$D_uf(x,y)=f_x(x,y)\cos\theta+f_y(x,y)\sin\theta$$
 $$D_uf(x,y)= \lim_{t \to 0}=\frac {f(x+t\cos\theta, y +t\sin\theta)-f(x,y)} {t}$$  <!--Ecuación de derivada direccional-->
 
 <p>La norma del vector es la distancia del punto del vector al origen o su distancia y el gradiente es el vector que se dirige a la posicion donde la tasa de cambio es mas notable.</p>
-<p>Sea $z=f(x,y)$ una función de dos variables, entonces el <b>gradiente de $f$</b> es la función vectorial $\bigtriangledown f$ definida por</p>
+
 
 <h6>Ejemplo 1:</h6>
+
+<h2 id= "descripción de gradiente">Gradiente</h2>
+<p>El <b>gradiente</b> de una función de dos variables es una función vectorial de dos variables, el gradiente se direcciona hacia la tasa de cambio mas notable de una función.</p>
+<p>Sea $z=f(x,y)$ una función de dos variables, entonces el <b>gradiente de $f$</b> es la función vectorial $\bigtriangledown f$ (el simbolo $\bigtriangledown$ no tiene significado, sin embargo, cuando se adjunta y opera sobre $f(x,y)$, se define como el vector gradiente de $f(x,y)$) definida por</p>
+
+$$\bigtriangledown f(x,y)=f_x(x,y)\textbf{i}+f_y(x,y)\textbf{j}\approx \frac{\partial f}{\partial x}\textbf{i}+\frac{\partial f}{\partial y}\textbf{j}$$
+<h2 id= "descripción de recta normal y plano tangente">Recta normal y plano tangente</h2>
 <p></p>
   
     
