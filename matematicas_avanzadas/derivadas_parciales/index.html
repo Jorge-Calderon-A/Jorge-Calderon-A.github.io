@@ -54,11 +54,17 @@ window.MathJax = {
 $$f_x(x,y)=f_x=\frac{\partial f }{\partial x}=\frac{\partial z}{\partial x}=z_x=f_1=D_1f=D_xf$$   <!--Derivada parcial respecto a x-->
 $$f_y(x,y)=f_y=\frac{\partial f }{\partial y}=\frac{\partial z}{\partial y}=z_y=f_2=D_2f=D_yf$$   <!--Derivada parcial respecto a y-->
 
-<p>Si hay una superficie, la cual depende de dos variables, si en esta supericie, a la mitad se corta mediante un plano quedando solo $a$ o $b$, el limite seria el siguiente</p>
+<p>Si hay una superficie, la cual depende de dos variables, si esta superifie se corta mediante un plano quedando solo $a$ o $b$ como constante, el limite seria el siguiente</p>
 
 <p>$$z=f(x,y)$$</p>
-<p>$$x=\color{blue}a \color{black}\longrightarrow\displaystyle\lim_{h \to 0}=\frac{f(\color{blue}a\color{black},y+h)-f(\color{blue}a\color{black}-y)}{h}$$</p>
-<p>$$\displaystyle\lim_{h \to 0}=\frac{g(y+h)-g(y)}{h}=f_y$$</p>
+<p>$$f_x(a,\color{blue}b\color{black})\longrightarrow\displaystyle\lim_{h \to 0}=\frac{f(a+h,\color{blue}b\color{black})-f(a,\color{blue}b\color{black})}{h}$$</p> <!--Derivada respecto a x-->
+
+<p>$$f_y(\color{red}a\color{black},b)\longrightarrow\displaystyle\lim_{h \to 0}=\frac{f(\color{red}a\color{black},b+h)-f(\color{red}a\color{black},b)}{h}$$</p>   <!--Derivada respecto a y-->
+
+<p>Si $f$ es una función de dos variables, sus <b>derivadas parciales</b> son las funciones $f_x$ y $f_y$ definidas por</p>
+
+<p>$$f_x(x,y)=\displaystyle\lim_{h \to 0}=\frac{f(x+h,y)-f(x,y)}{h}$$</p>
+<p>$$f_y(x,y)=\displaystyle\lim_{h \to 0}=\frac{f(x,y+h)-f(x,y)}{h}$$</p>
       </div>
       
       
