@@ -53,7 +53,16 @@ $$D_uf(x,y)= \lim_{t \to 0}=\frac {f(x+t\cos\theta, y +t\sin\theta)-f(x,y)} {t}$
 <p>La norma del vector es la distancia del punto del vector al origen o su distancia y el gradiente es el vector que se dirige a la posicion donde la tasa de cambio es mas notable.</p>
 
 
-<h4 style="color: red">Ejemplo 1</h4>
+<h4 style="color: red">Ejemplo 1</h4>                         <!--Vector normalizado-->
+<p>$\overrightarrow{v}=a\textbf{i}+b\textbf{j}\hspace {10mm}\longrightarrow\hspace{10mm} \left\| \overrightarrow{v} \right\|=\sqrt{a^{2}+b^{2}}$</p>  <!--\hspace{} para espaciar entre palabras-->
+<p>$$f(x,y)=3x-4xy+9y, \hspace{10mm} P(1,2), \hspace{10mm} v=\frac{3}{5}\textbf{i}+\frac{4}{5}\textbf{j}$$</p>   <!--\textbf para dejar en negrita palabras-->
+<p>$$\left\| \overrightarrow{v} \right\|=\sqrt{\left( \frac{3}{5} \right)^{2}+\left( \frac{4}{5} \right)^{2}}=\sqrt{\frac{9}{25}+\frac{16}{25}}=\sqrt{\frac{25}{25}}=1$$ El vector $\overrightarrow{v}$ es unitario</p>
+<p>$$f_x=2-4y; \hspace{10mm} f(1,2)=3-4(2)=3-8=-5$$</p>
+<p>$$f_y=-4x+9;\hspace{24mm} f(1,2)=-4(1)+9=5$$</p>
+<p>$$D_\overrightarrow{v}f(1,2)=fx(1,2)\left( \frac{3}{5} \right)+fy(1,2)\left( \frac{4}{5}\right)=-5\left(\frac{3}{5}\right)+5\left(\frac{4}{5}\right)=-3+4=1$$</p>
+<p>La derivada direccional de $f$ en $P(1,2)$ en la dirección de $\overrightarrow{v}$ es $D_\overrightarrow{v}f(1,2)=1$
+</p>
+
 
 <h2 id= "descripción de gradiente">Gradiente</h2>
 <p>El <b>gradiente</b> de una función de dos variables es una función vectorial de dos variables, el gradiente se direcciona hacia la tasa de cambio mas notable de una función.</p>
