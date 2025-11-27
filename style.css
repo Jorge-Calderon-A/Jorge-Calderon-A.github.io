@@ -1,1 +1,5 @@
-body {background-color: #e5f8f7}  /* Cambio de color de fondo para index.html
+body {background-color: #e5f8f7}  /* Cambio de color de fondo para index.html*/
+.banner-inicio {background-color: red; height: 350px;width: 100%; background-image: url(/Imagenes/instalaciones.jpg); background-size: contain; background-position: center;}   /*height para el tamaño del banner y with para que ocupe el ancho completo*/
+
+
+
