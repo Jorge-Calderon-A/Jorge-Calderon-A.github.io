@@ -1,5 +1,5 @@
 body {background-color: #e5f8f7}  /* Cambio de color de fondo para index.html*/
-.banner-inicio {background-color: rgb(0, 0, 0); height: 300px;width: 100%; background-image: url(/Imagenes/instalaciones.jpg); background-size: contain; background-position: center; display: flex;align-items: center;justify-content: center; text-align: center;}   /*height para el tamaño del banner y with para que ocupe el ancho completo*/
+.banner-inicio {background-color: rgb(0, 0, 0); height: 300px;width: 100%; background-image: url(/Imagenes/rayo.jpg) background-size: contain; background-position: center; display: flex;align-items: center;justify-content: center; text-align: center;}   /*height para el tamaño del banner y with para que ocupe el ancho completo*/
 
 
 
