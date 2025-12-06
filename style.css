@@ -14,4 +14,4 @@ padding: 10px;                                     /*padding es para agregar esp
 border-radius: 5px;                                /*cusor es para convertir el puntero en mano*/
 cursor: pointer;                                   /*fron-weiht es para dejar el texto en negrita*/
 font-weight: bold;} 
-summary:hover {background-color: aquamarine;}
+summary:hover {background-color: rgb(188, 232, 217);}
