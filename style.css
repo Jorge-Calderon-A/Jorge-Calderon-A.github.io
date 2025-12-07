@@ -17,4 +17,8 @@ font-weight: bold;}
 summary:hover {background-color: rgb(188, 232, 217);}
 /*----------------------------------------------------------------*/
 
-.Lista-de-calculo {color: rgb(241, 8, 8)}
+.Lista-de-calculo {color: green;}  /*Color para listas de calculo avanzado*/
+
+/*------------------------------------------------------------------------*/
+
+.Lista-de-metodos-numericos {color: green;}
