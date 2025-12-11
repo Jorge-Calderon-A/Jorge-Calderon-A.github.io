@@ -5,8 +5,11 @@ body {background-color: #e5f8f7; margin: 0%;}  /* Cambio de color de fondo para 
      background-position: bottom;background-repeat: no-repeat;background-size: 120%; 
      display: flex;align-items: center;justify-content: center; text-align: center; margin: 0px;}   /*height para el tamaño del banner y with para que ocupe el ancho completo*/
 
-
-
+ .titulo_cabeza_gradiente{color:white; background-color: rgba(0, 0, 0, 0);
+     height: 200px;background-position: center; width: 100%; 
+     background-image: url(/Imagenes/normal.png);background-size: contain;background-repeat: no-repeat;background-size: 120%; 
+     display: flex;align-items: center;justify-content: center; text-align: center; margin: 0px;}     /*Cabecera de gradiente*/
+/*----------------------------------------------------------------*/
 
      /*summary para MATEMATICAS PARA INGENIERIA*/
      
