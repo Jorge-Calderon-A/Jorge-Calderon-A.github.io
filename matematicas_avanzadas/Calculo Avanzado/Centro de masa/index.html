@@ -7,10 +7,10 @@ window.MathJax = {
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-
-
-<!DOCTYPE html><html><head>
-      <title>Gradiente</title>
+<!DOCTYPE html>
+<html lang="es">
+<head>  
+      <title>Centro de masa</title>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       
@@ -51,167 +51,30 @@ window.MathJax = {
   document.addEventListener("DOMContentLoaded", function () {
     // your code here
   });
-</script></head><body>
+</script>
+</head>
+
+
+<body>
+    <h2>Centro de masa y centroide</h2>
+    <p>El centro de masa es el punto en el cual se puede considerar que toda la masa de un objeto está concentrada para efectos de análisis de movimiento y equilibrio. Matemáticamente, el centro de masa (CM) de un sistema de partículas se define como:</p>
+    <p>\[ \vec{R}_{CM} = \frac{1}{M} \sum_{i} m_i \vec{r}_i \]</p>
+    <p>donde \( M \) es la masa total del sistema, \( m_i \) es la masa de la partícula \( i \), y \( \vec{r}_i \) es el vector de posición de la partícula \( i \).</p>
+    <p>Para un objeto continuo, la suma se reemplaza por una integral:</p>
+    <p>\[ \vec{R}_{CM} = \frac{1}{M} \int \vec{r} \, dm \]</p>
+    <p>El centroide es un concepto similar, pero se refiere al centro geométrico de una figura o cuerpo, sin considerar la masa. Para una figura bidimensional, el centroide (C) se define como:</p>
+    <p>\[ \vec{R}_{C} = \frac{1}{A} \int \vec{r} \, dA \]</p>
+    <p>donde \( A \) es el área total de la figura, y \( dA \) es un elemento diferencial de área.</p>    
     
-    
-      <header class="titulo_cabeza_gradiente"><h1>Derivada direccional, gradiente, recta normal y plano tangente</h1></header>
-<h2 id= "descripción de derivada direccional">Derivada direccional</h2>
-<p style="text-align: justify;">El vector gradiente esta determinado por ciertos teoremas que estan definidos en las derivadas parciales, tenemos el siguiente ejemplo de derivada direccional:</p>
+    <p>Para efectos de esta area, si $\rho$ es una función de densidad continua sobre la lámina que corresponde a una región 
+        plana $R$, entonces <b>la masa</b> m <b>de la lamina</b> está dada por:</p>
 
-<p>Si $f$ es una función derivable de $x$ y de $y$, entonces $f$ tiene una derivada direccional en la dirección de cualquier vector unitario $\textbf{u}=\left\langle a,b\right\rangle$ y:</p>
-$$D_u f(x,y)=f_x(x,y)a+f_y (x,y)b$$
+    <p>$$m=\int\int_{R}\rho\space dA$$</p>
 
-<p>En la representación anterior, se sabe que $a=\text{vector 1}$ y $b= \text{vector 2}$</p><br>
-<p>Una forma alternativa de escribir el teorema anterior es considerar el vector unitario como $u=\cos\theta_i+\sin\theta_j$ es:</p>
+    <p>Sea $\rho$ una función de densidad continua sobre la lámina plana $R$.
+        <b>Los momentos de masa con respecto a los ejes $x$ e $y$</b> son;</p>
 
-$$D_uf(x,y)=f_x(x,y)\cos\theta+f_y(x,y)\sin\theta$$
-
-<p>Sea $f$ una función de dos variables $x$ e $y$, y sea $\textbf{u}=\cos\theta\textbf{i}+\sin\theta\textbf {j}$ un vector unitario.Entonces la <b>derivada direccional de $f$ en la dirección de $u$</b>, que se denota $D_uf$, es</p>
-
-$$D_uf(x,y)= \lim_{t \to 0}=\frac {f(x+t\cos\theta, y +t\sin\theta)-f(x,y)} {t}$$  <!--Ecuación de derivada direccional-->
-
-<p>La norma del vector es la distancia del punto del vector al origen o su distancia y el gradiente es el vector que se dirige a la posicion donde la tasa de cambio es mas notable.</p>
-
-
-<h4 style="color: red">Ejemplo 1</h4>                         <!--Vector normalizado-->
-<p>$\overrightarrow{v}=a\textbf{i}+b\textbf{j}\hspace {10mm}\longrightarrow\hspace{10mm} \left\| \overrightarrow{v} \right\|=\sqrt{a^{2}+b^{2}}$</p>  <!--\hspace{} para espaciar entre palabras-->
-<p>$$f(x,y)=3x-4xy+9y, \hspace{10mm} P(1,2), \hspace{10mm} v=\frac{3}{5}\textbf{i}+\frac{4}{5}\textbf{j}$$</p>   <!--\textbf para dejar en negrita palabras-->
-<p>$$\left\| \overrightarrow{v} \right\|=\sqrt{\left( \frac{3}{5} \right)^{2}+\left( \frac{4}{5} \right)^{2}}=\sqrt{\frac{9}{25}+\frac{16}{25}}=\sqrt{\frac{25}{25}}=1$$ El vector $\overrightarrow{v}$ es unitario</p>
-<p>$$f_x=2-4y; \hspace{10mm} f(1,2)=3-4(2)=3-8=-5$$</p>
-<p>$$f_y=-4x+9;\hspace{24mm} f(1,2)=-4(1)+9=5$$</p>
-<p>$$D_\overrightarrow{v}f(1,2)=fx(1,2)\left( \frac{3}{5} \right)+fy(1,2)\left( \frac{4}{5}\right)=-5\left(\frac{3}{5}\right)+5\left(\frac{4}{5}\right)=-3+4=1$$</p>
-<p>La derivada direccional de $f$ en $P(1,2)$ en la dirección de $\overrightarrow{v}$ es $D_\overrightarrow{v}f(1,2)=1$
-</p>
-
-
-<h2 id= "descripción de gradiente">Gradiente</h2>
-<p>El <b>gradiente</b> de una función de dos variables es una función vectorial de dos variables, el gradiente se direcciona hacia la tasa de cambio mas notable de una función.</p>
-<p>Sea $z=f(x,y)$ una función de dos variables, entonces el <b>gradiente de $f$</b> es la función vectorial $\bigtriangledown f$ (el simbolo $\bigtriangledown$ no tiene significado, sin embargo, cuando se adjunta y opera sobre $f(x,y)$, se define como el vector gradiente de $f(x,y)$) definida por</p>
-
-$$\bigtriangledown f(x,y)=f_x(x,y)\textbf{i}+f_y(x,y)\textbf{j}\approx \frac{\partial f}{\partial x}\textbf{i}+\frac{\partial f}{\partial y}\textbf{j}$$
-<h2 id= "descripción de recta normal y plano tangente">Recta normal y plano tangente</h2>
-
-<p>Sea $F$ diferenciable en un punto $P(x_0, y_0, z_0)$ de la superficie $S$ dada por $F(x, y, z)=0$ tal que</p>
-
-$$\bigtriangledown F(x_0, y_0, z_0)\neq 0$$
-
-<p>1. Al plano que pasa por $P$ y es normal a $\bigtriangledown F(x_0,y_0,z_0)$ se le llama <b>plano tangente a $S$ en $P$.</b></p>
-<p>2. A la recta que pasa por $P$ y tiene la dirección de $\bigtriangledown F(x_0,y_0,z_0)$ se le llama <b>recta normal a $S$ en $P$.</b></p>
-
-<p>Si $F$ es diferenciable en $(x_0,y_0,z_0)$, <b>entonces una ecuación del plano tangente a la superficie</b> dada por $F(x,y,z)=0$ en $(x_0,y_0,z_0)$ es</p>
-
-$$\small F_x(x_0,y_0,z_0)(x-x_0)+F_y(x_0,y_0,z_0)(y-y_0)+F_z(x_0,y_0,z_0)(z-z_0)=0$$   <!--Ecuación del plano tangente-->
-
-<p>La <b>ecuación de la recta normal</b> es</p>
-<style>
-  span  {margin-right: 10px;}
-</style>
-$$\small x=x_0+F_x(x_0,y_0,z_0)t,y=y_0+F_y(x_0,y_0,z_0)t,z=z_0+F_z(x_0,y_0,z_0)t$$  <!--Espacio es con \quad en LATEX-->
-  
-<h4 style="color: red;">Ejemplo 2</h4>
-<p>Determine el plano tangente y la recta normal de la superficie</p>
-$$f(x,y,z)=x^2+y^2+z-9=0, \hspace {2mm}$$ en el punto $P(1,2,4)$
-
-<figure style="text-align: center;">                                         <!--Agrupar todo con nombre de imagen y sus titulo-->
-  <img src="/Imagenes/ptrn.png"               
-       alt="Superficie"                      
-       width="400px">
-  <figcaption style="color: gray; font-size: 14px; margin-top: -10px">                      
-    1. Superficie y punto $P$                             <!--figcaption define el titulo de la imagen-->
-  </figcaption>                                        <!--Margin top se dedica a acercar el titulo a la imagen-->
-</figure>
-
-<p>Los puntos $P=1x_{0}, \hspace {0.5mm} 2y_{0}, \hspace {0.5mm} 4z_{0}$</p>
-
-<p>$f_{x}=2x \hspace{1mm}; \hspace {6mm} fx(1,2,4)=2(1)=2$</p>
-<p>$f_{y}=2y \hspace{1mm}; \hspace{6mm} fy(1,2,4)=2(2)=4$</p>
-<p>$f_{z}=1$</p>
-
-<p>Reemplazando en la ecuación del plano tangente, se tiene:</p>
-<p>$$2(x-1)+4(y-2)+1(z-4)=0$$</p>
-<p>$$2x-2+4y-8+z-4=0$$</p>
-<p>$$2x+4y+z-14=0$$</p>
-<p>Por lo tanto, la ecuación del plano tangente es $2x+4y+z-14=0$</p>
-
-<figure style="text-align: center;">                                         <!--Agrupar todo con nombre de imagen y sus titulo-->
-  <img src="/Imagenes/planot.png"                                    
-       width="400px">
-  <figcaption style="color: gray; font-size: 14px; margin-top: -10px">                      
-    2. Plano tangente                             <!--figcaption define el titulo de la imagen-->
-  </figcaption>                                        <!--Margin top se dedica a acercar el titulo a la imagen-->
-</figure>
-
-<p>Para la busqueda de la recta normal sabemos que</p>
-
-<p>$x=x_{0}+f_{x}(x_{0}, \hspace {1mm} y_{0}, \hspace {1mm} z_{0})t\longrightarrow x=1+2t\longrightarrow t=\frac{x-1}{2}$</p>
-<p>$y=y_{0}+f_{y}(x_{0}, \hspace {1mm} y_{0}, \hspace {1mm} z_{0})t\longrightarrow y=2+4t\longrightarrow t=\frac{y-2}{4}$</p>
-<p>$z=z_{0}+f_{z}(x_{0}, \hspace {1mm} y_{0}, \hspace {1mm} z_{0})t\longrightarrow z=4+1t\longrightarrow t=\frac{z-4}{1}$</p>
-
-<p>La ecuación simetrica de la recta normal es $\frac{x-1}{2}=\frac{y-2}{4}=\frac{z-2}{1}$</p>
-
-<figure style="text-align: center;">                                         <!--Agrupar todo con nombre de imagen y sus titulo-->
-  <img src="/Imagenes/rectan.png"                                    
-       width="400px">
-  <figcaption style="color: gray; font-size: 14px; margin-top: -10px">                      
-    3. Recta normal                             <!--figcaption define el titulo de la imagen-->
-  </figcaption>                                        <!--Margin top se dedica a acercar el titulo a la imagen-->
-</figure>
-
-<p>Se ha llegado a la solución, la recta normal atraviesa el plano tangente y este toca la superficie.</p>
-
-<h4 style="color: red;">Ejemplo 3</h4>
-
-<p>Determine el plano tangente y la recta normal de la superficie <em style="color: #5c5c5c; font-size:13px; opacity: 0.8;">(ejercicio 41 del libro "Calculo de varias variables de James Stewart, Capitulo 14: Derivadas parciales")</em></p>
-
-<p>$$2(x-2)^{2}+(y-1)^{2}+(z-3)^{2}=10 \hspace {2mm}$$ En el punto $P=(3,3,5)$</p>                        <!--"opacity" sirve para opacar el texto, de 0 a 1-->
-
-<p>Se analiza si el punto se encuentra en la superficie, por lo tanto</p>
-
-<p>$$2(3-2)^{2}+(3-1)^{2}+(5-3)^{2}=10\longrightarrow 10=10$$</p>
-
-<p>Se ordena la ecuación</p>
-<p>$$f(x,y,z)=2(x-2)^{2}+(y-1)^{2}+(z-3)^{2}-10=0$$</p>
-
-<p>Los puntos $P=3x_{0}, \hspace {0.5mm} 3y_{0}, \hspace {0.5mm} 5z_{0}$, por lo tanto, las derivadas parciales respecto a $f(x,y,z)$ son</p>
-
-<p>$f_{x}=4(x-2) \hspace{1mm}; \hspace {6mm} fx(3,3,5)=4(3-2)=4$</p>
-<p>$f_{y}=2(y-1) \hspace{1mm}; \hspace{6mm} fy(3,3,5)=2(3-2)=4$</p>
-<p>$f_{z}=2(z-3) \hspace{1mm}; \hspace{6mm} fz(3,3,5)=2(5-3)=4$</p>
-
-<p>Reemplazando en la ecuación del plano tangente, se tiene:</p>
-<p>$$4(x-3)+4(y-3)+4(z-5)=0$$</p>
-<p>$$4x+4y+4z-12-12-20=0$$</p>
-<p>$$4x+4y+4z-44=0$$</p>
-<p>Por lo tanto, la ecuación del plano tangente es $4x+4y+4z-44=0$</p>
-
-<p>Se busca la recta normal que pasa por la superficie y el plano tangente</p>
-
-<p>$x=x_{0}+f_{x}(x_{0}, \hspace {1mm} y_{0}, \hspace {1mm} z_{0})t\longrightarrow x=3+4t\longrightarrow t=\frac{x-3}{4}$</p>
-<p>$y=y_{0}+f_{y}(x_{0}, \hspace {1mm} y_{0}, \hspace {1mm} z_{0})t\longrightarrow y=3+4t\longrightarrow t=\frac{y-3}{4}$</p>
-<p>$z=z_{0}+f_{z}(x_{0}, \hspace {1mm} y_{0}, \hspace {1mm} z_{0})t\longrightarrow z=5+4t\longrightarrow t=\frac{z-5}{4}$</p>
-
-<p>La ecuación simetrica de la recta normal es $\frac{x-3}{4}=\frac{y-3}{4}=\frac{z-5}{4}$</p>
-
-<figure style="text-align: center;">                                         <!--Agrupar todo con nombre de imagen y sus titulo-->
-  <img src="/Imagenes/Recta normal 2.png"                                    
-       width="400px">
-  <figcaption style="color: gray; font-size: 14px; margin-top: -5px">                      
-    4. Superficie, punto $P$, plano tangente y recta normal                             <!--figcaption define el titulo de la imagen-->
-  </figcaption>                                        <!--Margin top se dedica a acercar el titulo a la imagen-->
-</figure>
-
-
-
-
-
-
-      </div>
-      
-    
-    
-    
-    
-    
-    
-  
-    </body></html>
+        <p>$$M_x=\int\int_{R}y\rho(x,y)\space dA \hspace{15mm} M_y=\int\int_{R}x\rho(x,y)\space dA$$</p>
+    </p>
+</body>
+</html>
