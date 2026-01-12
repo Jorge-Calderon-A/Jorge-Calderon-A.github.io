@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <link rel="stylesheet" href="/style.css">     <!--Llamar a CSS desde HTML-->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title> Portafolio de ingeniería – Jorge Calderón</title>
+
+  <!-- MathJax para LaTeX (inline con $...$ y bloque con $$...$$)-->
+  <script>
+    window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <style>
+    :root { --azul:#3d31bc; --link:#0a58ca;} 
+    body{font-family:Arial,Helvetica,sans-serif;color:#222;line-height:1.6} 
+    h1,h2{color:var(--blanco)}
+    h1{text-align:center;margin-bottom:8px}
+    .card{background:#fff;border-radius:15px;padding:15px;margin:18px;box-shadow:0 6px 18px rgba(0,0,0,.06)}
+    ul{margin:10px 0 0 0;padding:0;list-style:none}
+    li{margin:6px 0}
+    a{color:var(--link);text-decoration:none;font-weight:600}
+    a:hover{text-decoration:underline}
+    .small{font-size:.92rem;color:#444}
+    hr{border:0;border-top:1px solid #e5e7eb;margin:24px 0}
+    footer{margin-top:24px;color:#444;font-size:.9rem}
+  </style>
+</head>
+<body>
+
+  <header class="banner-inicio"><h1>Portafolio de ingeniería</h1></header>   <!--Body deja a la pantalla con margenes margin-->
+<main class="contenido">
+  <style>.card{margin: 10px;}</style>   <!--Margenes de las cartas en margin-->
+  <p class="small"; style="margin: 10px;">
+    Hola, bienvenido a mi portafolio profesional. Soy <b>Jorge Calderón</b>, tengo 25 años, Ingeniero en Electricidad y estudiante de
+    Ingeniería Civil Industrial en la USACH. Me apasiona comprender los fundamentos desde lo más trivial a lo más complejo en una amplia gama de áreas.
+    Aquí encontrarás proyectos, simulaciones, investigaciones profesionales, universitarias y personales.
+ </p>
+
+  <div class="card">
+    <h2>💼 Experiencia profesional</h2>
+    <p>Mantenimiento en sistemas eléctricos, automatización, control e instrumentación en importante planta de producción en el país, donde se aplicaron conocimientos avanzados de instrumentación industrial, automatización industrial y control automático.
+</p>
+    <p>Mantenimiento electromecánico en sistemas ferroviarios. Implemente soluciones en área de energía eléctrica y mecánica aplicada a sistemas de trenes.</p>
+    <p>En mi trabajo actual se realiza supervisión de sistemas de energía eléctrica en Metro de Santiago, supervisión de equipos técnicos para el mantenimiento e implementación de sistemas de electrónica de potencia; subestaciones y subestaciones rectificadoras, corriente alterna en baja y media tensión (220V-380V-24kV), corriente continua de baja tensión (750V-1.500V), gestiones en SAP PM, elaboración de reportes y ordenes de mantenimiento. </p>
+  </div>
+
+  <div class="card">
+    <h2>🧠 Enfoque de investigación</h2>
+    <p>Actualmente me encuentro realizando investigaciones en el area de la teoría de sistemas eléctricos y en ciencias de la ingeniería, paralelamente al trabajo, mi objetivo principal es inducir nuevas areas de investigación para la busqueda de soluciones en el área, siendo capaz de optimizar procesos y gestionar profesionalmente las operaciones en el rubro energetico.</p>
+    <p>La idea principal es implementar conocimeintos de la Ingenieria Civil Industrial con la Ingenieria en Electricidad, buscar soluciones optimas, capaces de demostrar mediante la ciencia que se pueden implementar conocimientos de modelamiento de sistemas complejos en ambas areas.</p>
+  </div>
+
+  <div class="card">
+    <h2>🧠 Áreas de interés</h2>
+    <ul>
+      <li>- Ciencias de la ingeniería</li>
+      <li>- Modelamiento matemático</li>
+      <li>- Análisis de métodos numéricos</li>
+      <li>- Administración y gestión de proyectos</li>
+      <li>- Optimización e investigación de operaciones</li>
+      <li>- Aplicaciones de energía eléctrica (Electrónica, Automatización, Control e Instrumentación)</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>🌐 Encuéntrame</h2>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/jorge-calderona/" target="_blank" rel="noopener">LinkedIn</a></li>
+      <li><a href="mailto:jorgecalderonc22@gmail.com">Correo de contacto</a></li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <blockquote>"Toda la información presentada en este portafolio es de caracter personal, es decir, no hay plagio de ningún medio en todas las menciones del presente documento, en caso de haber textos citados, se mencionara el libro, web o documento con la información correspondiente."</blockquote>
+  </div>
+
+  <div class="card">
+    <h2>📊 Matemáticas para ingeniería</h2>
+    <p class="small"><i>El enfoque de esta area es el conocimiento avanzado de ingeniería, las matemáticas se aplican teoricamente y practicamente a nivel avanzado en sistemas complejos, estos conceptos ayudan a abordar los conocimientos para que la ingenieria y sus problemas puedan ser resueltos mediante aplicaciones reales y simulaciones.</i></p>
+    <ul>
+      <details>
+      <summary><a href="matematicas_avanzadas/Calculo/index.html">Calculo</a></summary>
+      <ul>
+      <li>Limites</li>
+      <li>Derivadas</li>
+      <li>Maximos y minimos</li>
+      <li>Integrales</li>
+      </ul>
+      </details>
+
+<!--Inicio de calculo avanzado-->
+      <details>
+      <summary><a href="matematicas_avanzadas/Calculo Avanzado/"; style="color: red;">Calculo avanzado</a></li></summary>
+      <ul class="Lista-de-calculo">
+        <li><a href="/matematicas_avanzadas/Calculo Avanzado/limites/index.html"; style="color: purple;">Limites de varias variables y continuidad</a></li>
+        <li>Limites en coordenadas polares junto a l'Hôpital y teorema del encaje</li>    <!--Listas de matematicas, ancladas a CSS por diseño de summary-->
+        <li><a href="/matematicas_avanzadas/Calculo Avanzado/derivadas_parciales/index.html"; style="color: purple;">Derivadas parciales</a></li>
+        <li>Regla de la cadena y derivación implicita en derivadas parciales</li>
+        <li><a href="/matematicas_avanzadas/Calculo Avanzado/Recta_normal_y_plano_tangente/index.html"; style="color:purple;">Derivada direccional, gradiente, recta normal y plano tangente</a></li> 
+        <li>Maximos y minimos</li> 
+        <li>Multiplicadores de Lagrange</li> 
+        <li>Integrales iteradas</li> 
+        <li>Integrales dobles</li> 
+        <li>Integrales dobles en coordenadas polares</li> 
+        <li><a href="/matematicas_avanzadas/Calculo Avanzado/Centro de masa/index.html"; style="color: purple;">Centro de masa, centroide, segundo momento y momento polar de inercia</a></li> 
+        <li>Integrales triples</li> 
+        <li>Cambio de variables: Jacobiano</li></p>
+        </ul>
+        </details>
+
+        <!--Termino de calculo avanzado-->
+
+        <!--Inicio de lista algebra lineal-->
+        <details>
+      <summary><a href="matematicas_avanzadas/Algebra lineal/index.html">Algebra Lineal</a></summary>
+      <ul class="Lista-de-algebra-lineal">
+        <li>Axiomas</li>
+        <li>Espacios y subespacios vectoriales</li> 
+        <li>Combinación lineal, sistema generador y dependencia lineal</li> 
+        <li>Base y dimensión, tecnica de exclusión y teorema de la dimensión</li> 
+        <li>Transformación lineal, bases y teoremas</li> 
+        <li>Kernel e imagen de una transformación lineal</li> 
+        <li>Isomorfismos, coordenadas de un vector y matriz de una transformación lineal</li> 
+        <li>Valores y vectores propios, diagonalización, condiciones, norma, distancia y desigualdad de Cauchy-Schawrz</li> 
+        <li>Angulo entre vectores, teorema de pitagoras y procedimiento de ortogonalización de Gram-Schmidt</li> 
+        <li>Introducción a las ecuaciones diferenciales</li>
+      </ul>
+      </details>
+
+      <!--Fin de lista algebra lineal-->
+  
+      <!--Lista de metodos numericos-->
+      <details>
+      <summary><a href="matematicas_avanzadas/Metodos numericos/index.html">Metodos numericos</a></summary>
+      <ul class="Lista-de-metodos-numericos">
+      <li>Metodo de Bisección</li>
+      <li>Metodo de Newton-Raphson</li> 
+      <li>Metodo de Newton- Raphson generalizado
+      <li>Metodo iterativo de punto fijo</li> 
+      <li>Eliminación de Gauss y de Gauss Seidel</li> 
+      <li>Factorización LU, pivoteo y Choleski</li> 
+      <li>Gauss Seidel y Gauss Jacobi</li> 
+      <li>Relajación SOR</li> 
+      <li>Interpolación de Vardermonde</li> 
+      <li>Interpolación de Lagrange</li> 
+      <li>Interpolación de Newton</li> 
+      <li>Interpolación de Hermite</li> 
+      <li>Spline cubica</li> 
+      <li>Integración numerica y problema de valor inicial</li> 
+      <li>Ecuaciones diferenciales</li>
+      </ul>
+      </details>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>⚛️ Complementos de física</h2>
+    <ul>
+    <details>
+      <summary><a href="Fisica/Fisica/Unidades de medidas/index.html">Unidades de medida</a></summary>
+      <ul class="unidades-fisicas">
+        <li>Unidades de medidas fisica</li>
+        <li>Conversión de unidades</li>
+      </ul>
+      </details>
+      
+      <details>
+      <summary><a href="Fisica/Fisica/Ondas/index.html">Ondas</a></summary>
+      <ul class="lista-ondas">
+        <li>Propiedades de ondas mecanicas y electromagneticas</li>
+        <li>Movimiento armonico simple</li>
+        <li>Transporte de energia</li>
+        <li>Momentun lineal y cantidad de movimiento</li>
+      </ul>
+      </details>
+      <!--Termino de lista de ondas-->
+
+      <details>
+      <summary><a href="Fisica/Fisica/Optica/index.html"; style="color: red;">Óptica</a></summary>
+      <ul class="lista-optica">
+        <li>Ley de la óptica geometrica</a></li>
+        <li>Ley de Snell</li> 
+        <li>Dispersión</li> 
+        <li>Reflexión interna total</li> 
+        <li>Principio de Huygens</li> 
+        <li>Indice de refracción</li> 
+        <li><a href="/Fisica/Fisica/Optica/index.html"; style="color:purple;">Formación de imagenes; espejos planos, espejos cóncavos, espejos convexos y lentes delgadas</a></li>
+        <li>Aberraciones de las lentes e interferencia de ondas de luz</li>
+      </ul>
+      </details>
+      <!--termino de lista optica-->
+    <details>
+      <summary><a href="Fisica/Fisica/Fisica moderna/index.html">Física moderna</a></summary>
+      <ul class="lista-fisica-moderna">
+        <li>Cuerpo negro</li>
+        <li>Efecto fotoeléctrico y efecto Compton</li>
+        <li>Teoria de la relatividad de Einstein</li>
+      </details>
+
+     <!--temrino de fisica moderna-->
+    <details>
+      <summary><a href="Fisica/Fisica/Termodinamica/index.html">Termodinámica</a></summary>
+      <ul class="lista-termodinamica">
+      <li>Ley cero de la termodinámica</li>
+      <li>Primera ley de la termodinámica</li>
+      <li>Sistemas reversibles; isocoricos, isobaricos, isotermicos y adiabaticos</li>
+      <li>Entalpía</li>
+      <li>Segunda ley de la termodinámica</li>
+      <li>Gases ideales</li>
+      <li>Sustancias puras</li>
+      <li>Diagrama de fases y tablas de vapor</li>
+      <li>Entropia</li>
+      <li>Máquina de Carnot</li>
+     </ul>
+      </details>
+  </ul>
+  </div>
+
+  <div class="card">
+    <h2>🧩 Proyectos de ingeniería en electricidad</h2>
+    <ul>
+      <li><p style="margin-bottom: -15px;"><a href="proyecto/circuito_serie/index.html">Circuito en serie</a></li></p>  <!--En proxima linea, se cambia el color de texto y desde aca se define la distancia entre versos-->
+      <p style="font-size: 14px; color: gray;"><em>Un analisis en circuito de corriente continua bajo condiciones extremas, pruebas de componentes simulados mediante Proteus y sistemas practicos.</em></em></p>
+      <li><a href="proyecto/Circuito_paralelo/index.html">Circuito paralelo</a></li>
+      <li><a href="proyecto/Circuito_mixto/index.html">Circuito mixto</a></li>
+      <li><a href="proyecto/Ley_de_Kirchhoff/index.html">Ley de Kirchhoff</a></li>
+      <li><a href="proyecto/Divisor_de_tensión_y_corriente/index.html">Divisor de tensión y corriente</a></li>
+      <li><a href="proyecto/Circuito de mallas/index.html">Circuitos mediante analisis de mallas</a></li>
+      <li><a href="proyecto/Teorema_de_Thevenin _y_Norton/index.html">Teorema de Thevenin y Norton</a></li>
+      <li><a href="proyecto/Circuito_RL_RC_y_RLC/index.html">Circuitos RL, RC y RLC</a></li>
+      <li><a href="proyecto/Capacitores/index.html">Comportamiento de capacitores en circuitos, analisis de temperatura, carga, descarga y capacitancia a nivel practico</a></li>
+      <li><a href="proyecto/Resistencia Shunt/index.html">Investigacion, formulación y revisión de resistencias Shunt</a></li>
+      <li><a href="proyecto/Calculos luminicos/index.html">Cálculo y diseño de instalaciones eléctricas de baja tensión según RIC (alimentadores, protecciones, conductores, canalizaciones e iluminación)</a></li>
+      <li><a href="proyecto/CCM/index.html">Análisis de ubicación óptima de un Centro de Control de Motores (CCM) mediante cálculos eléctricos, criterios normativos y modelación en AutoCAD</a></li>
+      <li><a href="proyecto/PID/index.html">Aplicación y programación de control PID para mezcla de productos en TIA PORTAL V15.1</a></li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>🧩 Proyectos en Software</h2>
+    <ul>
+      <li><a href="proyecto/Power BI/index.html">Power BI</a></li>
+      <li><a href="Excel">Excel</a></li>
+
+      <details>
+      <summary><a href="Visual studio code">Visual Studio Code (Python, HTML, CSS, SQL y LATEX)</a></summary>
+      <ul class="vsc">
+        <li>Desarrollo scripts en Python para automatizar la redacción y estandarización de informes, y apoyar la gestión de mantenimiento en SAP PM (Metro de Santiago).</li>
+      </ul>
+      </details>
+      <!--Fin de lista de VSC-->
+      <li><a href="tia portal">TIA PORTAL</a></li>
+      <li><a href="autocad">AutoCAD</a></li>
+      <li><a href="MatLab">MATLAB</a></li>
+      <li><a href="proyecto/Gams/index.html">GAMS</a></li>
+      <li><a href="/proyecto/Manim/index.html">Manim (por Python)</a></li>
+      </ul>
+  </div>
+
+
+  <div class="card">
+    <h2>⚙️ Mantenimiento y mejora continua</h2> <!--lista de mantenimiento y mejora continua-->
+    <ul>
+      <details>
+        <summary><a href="/proyecto/mantenimiento/index.html">Mantenimiento y confiabilidad</a></summary>
+        <ul class="mantenimiento">
+          <li>Mantención de activos</li>
+          <li>Mantenimiento basado en la confiabilidad (RCM)</li>
+          <li>Metodologias de analisís de causa raiz (RCA)</li>
+          <li>Instrumentación</li>
+        </ul>
+    </details>    
+    <details>
+      <summary><a href="/proyecto/configuracion/index.html">Configuración de redes</a></summary>
+      <ul class="Configuración_de_redes">
+        <li>Modelo OSI</li>
+        <li>Modelo TCP/IP</li>
+        <li>Piramide CIM</li>
+        <li>Redes industriales (Modbus, Profinet, Profibus, DeviceNet, AS-Interface y CAN BUS)</li>
+        <li>Transmisión RS-232, RS-422 y RS-485</li>
+      </ul>
+    </details><!--Termino de lista de mantenimiento y mejora continua-->
+      </ul>
+
+  </div>
+
+  <footer style="margin: 10px;">
+    <hr/>
+    <div>El portafolio se encuentra en su fase de creación, partes de los conceptos no pueden estar terminados, definidos o escritos. El avance es relativo, se realiza paralelamente al trabajo y los estudios. 
+      <p style="color: red;">La construcción, programación y diseño del portafolio esta tardando mas de lo habitual ya que el tiempo es acotado, ya que estoy en fase de prueba de la pagina, programando un mejor diseño y estructura, por lo que los contenidos son escasos. Se puede encontrar de color rojo los terminos donde he trabajado.</p>
+    </div>
+   
+    <p>© 2025 Jorge Calderón | Ingeniero en Electricidad e Ingenieria Civil Industrial – USACH <br> Portafolio académico y profesional – Actualizado en diciembre de 2025
+    </p>
+  </footer>
+</body>
+</html>
+</main>
+
