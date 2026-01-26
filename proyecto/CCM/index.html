@@ -65,17 +65,71 @@ window.MathJax = {
              en este caso, yo demostrare como seleccionar su ubicación y comprender los CCM desde un punto de vista critico y riguroso.
         </p>
         
-        <p>Para el correcto cálculo, es impresindible comprender las dimensiones y realizar una visualización completa del entorno
+        <p>Para el correcto cálculo, es imprescindible comprender las dimensiones y realizar una visualización completa del entorno
             en el cual se instalara el centro de control de motores, para este caso se tiene el siguiente plano:
         </p>
 
         <figure style="text-align: center;">                                         <!--Agrupar todo con nombre de imagen y sus titulo-->
-  <img src="/Imagenes/Planta para CCM.png" alt="Planta para CCM"                                 
-       width="400px">
-  <figcaption style="color: gray; font-size: 14px; margin-top: -10px">                      
-    1. Plano                             <!--figcaption define el titulo de la imagen-->
-  </figcaption>                                        <!--Margin top se dedica a acercar el titulo a la imagen-->
-</figure>
+            <img src="/Imagenes/Planta para CCM.png" alt="Planta para CCM"                                 
+                width="500px">
+            <figcaption style="color: gray; font-size: 14px; margin-top: -10px">                      
+                1. Plano                             <!--figcaption define el titulo de la imagen-->
+            </figcaption>                                        <!--Margin top se dedica a acercar el titulo a la imagen-->
+        </figure>
+
+        <p>Con el plano anterior ya podemos comenzar a comprender principalmete como seria su implementación, sin embargo, 
+            tambien debemos conocer las caracteristicas termicas del lugar, las estructuras en su interior, su materialidad y 
+            evidentemente las dimensiones de los motores y del recinto donde se instalara el CCM. En este caso, se instalara el CCM en 
+            la sala de procesos, la cual tiene las siguientes dimensiones:
+
+            $$Largo= 40\space m$$    <!--LATEX para las dimensiones del recinto-->
+            $$Ancho = 30\space m$$    
+        </p>
+
+        <p>El cliente informa que necesita 16 bombas sanitarias para un proceso de leche en la planta, esto convierte a nuesto analisis 
+            mucho mas cuidadoso, ya que las circustancias de las bombas seran sanitarias y por lo tanto, se deben minimizar aún mas los errores, y 
+            aumentar la eficiencia del CCM para una menos contaminación del producto en caso de falla. El cliente informa la potencia de los motores que seran todo iguales 
+            y las ubicaciones ideal de los motores para la planta y el proceso conveniente.
+
+            <figure style="text-align: center;">                                         <!--Agrupar todo con nombre de imagen y sus titulo-->
+                <img src="/Imagenes/Motores ubicación para CCM.png" alt="Planta para CCM"                                 
+                width="500px">
+                    <figcaption style="color: gray; font-size: 14px; margin-top: -10px">                      
+                        2. Ubicación de motores                        <!--figcaption define el titulo de la imagen-->
+                    </figcaption>                                        <!--Margin top se dedica a acercar el titulo a la imagen-->
+            </figure>
+        </p>
+
+        <p>Ya que tenemos la ubicación, debemos definir una esquina del recinto (idealmente la superior) con las coordenadas 
+            $X, Y = 0,0$ y asi definir las coordenas de los motores en el plano cartesiano, para asi definir las distancias sumarias 
+            entre cada motor.
+
+            <figure style="text-align: center;">                                         <!--Agrupar todo con nombre de imagen y sus titulo-->
+                <img src="/Imagenes/Coordenadas CCM.png" alt="Planta para CCM"                                 
+                width="500px">
+                    <figcaption style="color: gray; font-size: 14px; margin-top: -10px">                      
+                        3. Coordenadas recinto                        <!--figcaption define el titulo de la imagen-->
+                    </figcaption>                                        <!--Margin top se dedica a acercar el titulo a la imagen-->
+            </figure>
+        </p>
+
+        <p>Con las coordenadas definidas, se procede a dimesionar en el plano las ubicaciones, saltamos el primer 
+            motor mas acercado al muro para equilibrar el centro de masa, y procedemos a definir las distancias en X y Y de cada motor al
+            punto (0,0), para asi obtener las siguientes distancias:
+
+            <figure style="text-align: center;">                                         <!--Agrupar todo con nombre de imagen y sus titulo-->
+                <img src="/Imagenes/Coordenadas listas CCM.png" alt="Planta para CCM"                                 
+                width="500px">
+                    <figcaption style="color: gray; font-size: 14px; margin-top: -10px">                      
+                        4. Distancias de motores                        <!--figcaption define el titulo de la imagen-->
+                    </figcaption> 
+            </figure>                                       <!--Margin top se dedica a acercar el titulo a la imagen-->
+        </p>
+
+        <p>Una vez que realizamos las distancias, tomamos el <b>momento eléctrico</b> para calcular la ubicación mediante el siguiente cálculo:
+            $$HP_T\space\cdot\space L_e=\sum_{i=1}^{n}HP_T\space \cdot\space \sum_{i=1}^{n}L_e$$
+        </p>
+
 
     </div>
     
